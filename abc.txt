@@ -1,0 +1,1 @@
+Hi, we are starting one new project in git to practice it.
